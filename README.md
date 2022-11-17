@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @x1n0innit :)
-- 👀 I’m interested in JavaScript and Web Dev.
-- 🌱 I’m currently learning SQL and doing HarvardX CS50's Introduction to Artificial Intelligence with Python.
-- 💞️ I’m looking to collaborate on anything that pops into my mind!
+- 👀 I’m interested in Robotics, React, Web Scraping and Data Analysis.
+- 🌱 I’m currently learning RaspberryPi, MySQL and Advanced React.
+- 💞️ I’m always open to new projects!
 - 📫 How to reach me: shoot me an email @Guilherme.Lopes@obs.edu.pt.
 
 <!---
